@@ -26,7 +26,7 @@ hERG channel inhibition is a major cause of drug-induced cardiac arrhythmias and
 
 1. **Clone or download this repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aman-Aryan11/hERG-Toxicity-Predictor.git
    cd hERG_toxicity
    ```
 
